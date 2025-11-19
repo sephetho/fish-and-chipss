@@ -1,0 +1,12 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TX|26 Nov 2015 08:50:52 -0000
+vti_author:SR|DESKTOP-ACH1\\AcH
+vti_modifiedby:SR|DESKTOP-ACH1\\AcH
+vti_nexttolasttimemodified:TX|26 Nov 2015 08:50:52 -0000
+vti_timecreated:TR|09 May 2017 19:11:04 -0000
+vti_cacheddtm:TX|09 May 2017 19:11:04 -0000
+vti_filesize:IR|641
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|Rates.html booking-enquiries.html contact-us.html Home.html things-to-do.html Facilities.html Gallary.html thank-you.html template.html Accomodation.html
+vti_syncwith_localhost\\c\:\\users\\ach\\desktop\\2017\\stick\\web development\\expressiveweb code library\\standard template framework/c\:/users/ach/desktop/2017/stick/web development/expressiveweb code library/standard template framework:TW|09 May 2017 19:11:04 -0000
+vti_syncofs_localhost\\c\:\\users\\ach\\desktop\\2017\\stick\\web development\\expressiveweb code library\\standard template framework/c\:/users/ach/desktop/2017/stick/web development/expressiveweb code library/standard template framework:TX|26 Nov 2015 08:50:52 -0000
